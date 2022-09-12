@@ -1,4 +1,4 @@
-# Regression-Investestment-Analysis
+# Regression-Investment-Analysis
 Regression analysis of specific variables to beat the market
 
 ## Introduction
